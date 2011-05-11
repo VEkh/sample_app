@@ -10,6 +10,7 @@ gem 'sqlite3'
 group :development, :test do
 	gem 'rspec-rails'
 	gem 'webrat'
+	gem 'annotate-models'
 end
 
 group :test do
