@@ -19,4 +19,5 @@ group :test do
 	gem 'webrat'
 	gem 'autotest'
 	gem 'autotest-rails'
+	gem 'factory_girl_rails'
 end
